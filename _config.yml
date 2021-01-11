@@ -29,7 +29,7 @@ url: "https://ieeeualbertabranch.com" # the base hostname & protocol for your si
 instagram_username: uaieeesb
 
 # Build settings
-remote_theme: creative-theme-jekyll
+remote_theme: volny/creative-theme-jekyll
 plugins:
   - jekyll-feed
 
